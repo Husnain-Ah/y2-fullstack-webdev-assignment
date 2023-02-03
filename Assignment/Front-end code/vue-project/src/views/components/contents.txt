@@ -1,0 +1,1 @@
+the components file contains the vue js files for the 6 endpoints that will be on the dashboard.

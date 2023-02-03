@@ -1,0 +1,1 @@
+run the terminal in te vue-project folder for the fron tend website to run properly
